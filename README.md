@@ -18,8 +18,6 @@
 
 <h2 align="center">🧠 About Me</h2>
 
-<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
-
 🔹 Fullstack developer focused on **real production systems**  
 🔹 Strong backend mindset (layered architecture, API design, data modeling)  
 🔹 Comfortable across modern web stacks & system-level technologies  
